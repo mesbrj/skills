@@ -8,6 +8,8 @@ Manages personal tasks with the Taskwarrior CLI (`task`), pairing each task with
 
 See [skill-taskwarrior/SKILL.md](skill-taskwarrior/SKILL.md) for full details.
 
+## skill-project-documents
+
 ## skill-ory-iam
 
 ## skill-kafka

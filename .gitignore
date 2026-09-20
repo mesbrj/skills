@@ -1,2 +1,9 @@
 # Skills process documentation
 docs/taskwarrior-process.md
+docs/project-docs-process.md
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pycache
